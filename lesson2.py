@@ -1,3 +1,4 @@
+"""Creating/Showing a Db"""
 from getpass import getpass
 from mysql.connector import connect, Error
 
